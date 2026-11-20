@@ -13,7 +13,7 @@ authors = [{name = "Mika Mischke"}]
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/luminosstudioai-creator/local-model-eval"
+Repository = "https://github.com/mikamske/local-model-eval"
 
 [tool.setuptools]
 py-modules = ["evaluate"]
